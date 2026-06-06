@@ -119,11 +119,9 @@ No Hallucination
 The system prompt requires the assistant to:
 
 - Answer only from retrieved context
-![RAG Demo](app/screenshots/RAG_Screenshot1.png)
 - Avoid diagnosis and treatment advice
 - Tell users with urgent symptoms to call 911 or contact a clinician
 - Say it does not know when the answer is not in the retrieved Swedish public information
-![RAG Demo](app/screenshots/RAG_Screenshot2.png)
 
 ## Notes for a real production healthcare RAG system
 
