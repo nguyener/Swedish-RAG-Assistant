@@ -107,6 +107,11 @@ What can virtual care help with?
 What information is available for patients and visitors?
 ```
 
+## Demo Screenshot
+
+![RAG Demo](app/screenshots/RAG_Screenshot1.png)
+![RAG Demo](app/screenshots/RAG_Screenshot2.png)
+
 ## Important healthcare safety guardrails
 
 The system prompt requires the assistant to:
