@@ -108,8 +108,10 @@ What information is available for patients and visitors?
 ```
 
 ## Demo Screenshot
-
+Retrieve info when it could find answer from Swedish
 ![RAG Demo](app/screenshots/RAG_Screenshot1.png)
+
+No Hallucination
 ![RAG Demo](app/screenshots/RAG_ScreenShot2.png)
 
 ## Important healthcare safety guardrails
